@@ -1,0 +1,1 @@
+Xây dựng hệ thống cơ sở dữ liệu tại thư mục Data và tạo cơ sở dữ liệu bằng Visual.Sau đó kết nối với sql thông qua đường truyền sau khi tạo App.confit. Tạo form PhanCongChamSoc và viết các chức năng quản lý cơ bản(Thêm, Xóa, Sửa, Hủy, Thoát, Lưu, Nhập, Xuất và hiện thị thông tin).
